@@ -1,1 +1,2 @@
-web: weatherappbysandeep app:app
+web: web:node src/major.js
+
