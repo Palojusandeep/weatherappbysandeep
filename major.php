@@ -1,1 +1,1 @@
-<?php include_once("major.html"); ?>
+require __DIR__.'/../vendor/autoload.php';
